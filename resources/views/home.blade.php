@@ -20,6 +20,6 @@
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_zvcqo3ed.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
 
-<h1>Laravel : la chiave per il futuro</h1>
+<h1>Hello World</h1>
 </body>
 </html>
